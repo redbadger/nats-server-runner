@@ -33,7 +33,7 @@ Inspired by [java-nats-server-runner](https://github.com/nats-io/java-nats-serve
 1. Add the dependency
    ```kotlin
    dependencies {
-     testImplementation("com.github.redbadger:nats-server-runner:master")
+     testImplementation("com.github.redbadger:nats-server-runner:1.0.0")
    }
    ```
 
